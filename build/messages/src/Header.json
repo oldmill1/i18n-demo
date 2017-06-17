@@ -1,0 +1,6 @@
+[
+  {
+    "id": "Header.welcomeMessage",
+    "defaultMessage": "Welcome to your dashboard, {name}!"
+  }
+]
